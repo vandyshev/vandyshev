@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Evgenii
 
-#### My CV: [Evgenii Vandyshev.pdf](https://raw.githubusercontent.com/vandyshev/vandyshev/master/cv.pdf)
-
 ## 🛠 My main buzzwords
 ![Swift](https://img.shields.io/badge/swift-f54a2a?style=for-the-badge&logo=swift&logoColor=white)
 ![MVVM](https://img.shields.io/static/v1?label=&message=mvvm&style=for-the-badge&color=000000&logoColor=white)
