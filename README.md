@@ -38,6 +38,8 @@
 ![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=Cursor&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/openai-%23412991.svg?style=for-the-badge&logoColor=white)
 ![Codex](https://img.shields.io/badge/codex-%23000000.svg?style=for-the-badge&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/openclaw-%23FF4D4D.svg?style=for-the-badge&logoColor=white)
+![Hermes](https://img.shields.io/badge/hermes-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-%236950EF.svg?style=for-the-badge&logo=qwen&logoColor=white)
@@ -109,7 +111,8 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <!-- Cross-platform -->
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-%231C1E24.svg?style=for-the-badge&logo=expo&logoColor=%23D04A37)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) <!-- Product, docs & knowledge -->
+![Linear](https://img.shields.io/badge/linear-%235E6AD2.svg?style=for-the-badge&logo=linear&logoColor=white) <!-- Product, docs & knowledge -->
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
@@ -134,4 +137,3 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white) <!-- Networking & security -->
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
