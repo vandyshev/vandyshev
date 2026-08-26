@@ -3,6 +3,7 @@
 ## 🛠 My main buzzwords
 
 ![Swift](https://img.shields.io/badge/swift-%23F54A2A.svg?style=for-the-badge&logo=swift&logoColor=white) <!-- Swift & architecture -->
+![UDF](https://img.shields.io/static/v1?label=&message=udf&style=for-the-badge&color=000000&logoColor=white)
 ![MVVM](https://img.shields.io/static/v1?label=&message=mvvm&style=for-the-badge&color=000000&logoColor=white)
 ![VIPER](https://img.shields.io/static/v1?label=&message=viper&style=for-the-badge&color=000000&logoColor=white)
 ![MVC](https://img.shields.io/static/v1?label=&message=mvc&style=for-the-badge&color=000000&logoColor=white)
@@ -15,6 +16,7 @@
 ![RxSwift](https://img.shields.io/static/v1?label=&message=rxswift&style=for-the-badge&color=ff48b0&logo=reactivex&logoColor=white)
 ![Tuist](https://img.shields.io/badge/tuist-%23F54A2A.svg?style=for-the-badge&logoColor=white) <!-- Dependencies, codegen & linting -->
 ![SPM](https://img.shields.io/static/v1?label=&message=spm&style=for-the-badge&color=f54a2a&logo=swift&logoColor=white)
+![Swift Macros](https://img.shields.io/static/v1?label=&message=swift%20macros&style=for-the-badge&color=f54a2a&logo=swift&logoColor=white)
 ![SwiftLint](https://img.shields.io/static/v1?label=&message=swiftlint&style=for-the-badge&color=f54a2a&logoColor=white)
 ![SwiftGen](https://img.shields.io/static/v1?label=&message=swiftgen&style=for-the-badge&color=f54a2a&logoColor=white)
 ![Swinject](https://img.shields.io/static/v1?label=&message=swinject&style=for-the-badge&color=f54a2a&logoColor=white)
@@ -32,6 +34,8 @@
 ![VoxImplant](https://img.shields.io/static/v1?label=&message=voximplant&style=for-the-badge&color=260c4d&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white) <!-- Networking & persistence -->
 ![Moya](https://img.shields.io/static/v1?label=&message=moya&style=for-the-badge&color=f54a2a&logoColor=white)
+![WebSocket](https://img.shields.io/static/v1?label=&message=websocket&style=for-the-badge&color=000000&logoColor=white)
+![gRPC](https://img.shields.io/badge/grpc-%232DA6B0.svg?style=for-the-badge&logoColor=white)
 ![Realm](https://img.shields.io/badge/realm-%2339477F.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white) <!-- AI & agents -->
 ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
